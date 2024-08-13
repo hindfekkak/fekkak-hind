@@ -19,7 +19,7 @@
 </p>
 <br>
 <div align="center">
-<img align="center" alt="Data Science Animation" width="500" src="https://media.giphy.com/media/26FPN4QpOZk0w5fIk/giphy.gif">
+<img align="center" alt="Data Science Animation" width="500" src="https://cdn.pixabay.com/animation/2020/01/10/10/33/data-activity-453231.gif">
 
 </div>
 <br>
