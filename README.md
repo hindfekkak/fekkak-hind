@@ -1,10 +1,9 @@
 <h1 align="center">Hello 🌟, I'm Hind Fekkak</h1>
-<h3 align="center"> Data Engineer & Data Scientist 🚀 | Cloud Enthusiast ☁️ | Enthusiastic about Data Pipelinesand AI 🤖</h3>
+<h3 align="center"> Data Engineer & Data Scientist 🚀 | Cloud Enthusiast ☁️ | Enthusiastic about Data Pipelines and AI 🤖</h3>
 <br>
 
 - 🔭 I’m actively sharing my projects on GitHub 📚
 - 🌱 Currently exploring **Advanced Cloud Architecture** and **Data Engineering** 📊
-- ⚡ I thrive on the thrill of **Hackathons** (Adrenaline junkie alert! ⚡)
 - 📫 Reach me at: **fekkakhind@gmail.com** or
   <a href="https://www.linkedin.com/in/hind-fekkak/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
