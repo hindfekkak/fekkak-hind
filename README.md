@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🌟, I'm Hind Fekkak</h1>
-<h3 align="center">Data Engineer 🚀 | Cloud Lover ☁️ | Enthusiastic about Data Pipelines and Infrastructure 🏗️</h3>
+<h3 align="center"> Data Engineer & Data Scientist 🚀 | Cloud Enthusiast ☁️ | Enthusiastic about Data Pipelinesand AI 🤖</h3>
 <br>
 
 - 🔭 I’m actively sharing my projects on GitHub 📚
@@ -19,7 +19,7 @@
 </p>
 <br>
 <div align="center">
-<img align="center" alt="Coding Animation" width="500" src="https://your-image-link-here.gif">
+<img align="center" alt="Coding Animation" width="500" src="https://media.giphy.com/media/1UHeK8VteWzJ2/giphy.gif">
 </div>
 <br>
 
