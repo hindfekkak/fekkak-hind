@@ -5,9 +5,7 @@
 - 🔭 I’m actively sharing my projects on GitHub 📚
 - 🌱 Currently exploring **Advanced Cloud Architecture** and **Data Engineering** 📊
 - 📫 Reach me at: **fekkakhind@gmail.com** or
-  <a href="mailto:fekkakhind@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-000.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+  
   <a href="https://www.linkedin.com/in/hind-fekkak/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
@@ -20,8 +18,8 @@
 
 ### About Me 💼:
 <p align="center">
-  <em>“Data isn't just a tool. It's a lifestyle.”</em>
-  — <em> A Thoughtful Enthusiast 😊</em>
+  <em>“Data is more than just numbers; it's a way of thinking.”</em>
+  — <em>A Passionate Analyst 😊</em>
 </p>
 <br>
 <div align="center">
@@ -30,25 +28,20 @@
 </div>
 <br>
 
-I believe that concepts such as Graph Theory, Probability, and Markov Chains are essential in daily decision-making. Effective choices lead to successful outcomes, and I apply this belief to my career 💼, studies 🎓, and personal wellness 🏋️‍♀️.
+I see concepts like Linear Algebra, Machine Learning, and Statistical Inference as crucial tools for navigating the complexities of modern life. Smart decisions stem from solid data, and I carry this philosophy into my professional work 💼, academic pursuits 🎓, and personal growth 🏋️‍♀️.
 
-I find joy in applying data-driven solutions on a larger scale as a **Cloud Data Consultant**. My focus is on creating and optimizing cloud-based data platforms, ensuring efficient data workflows and integrations. My aim is to enhance data processes and enable insightful analytics that support strategic business decisions and growth.
+As a **Data Engineer** and **Data Scientist**, I thrive on transforming raw data into actionable insights. My work revolves around designing scalable data infrastructures, ensuring seamless data flow, and harnessing advanced analytics to empower informed decision-making and foster business innovation.
 
 ### Tools and Technologies 🛠️:
 
-#### Cloud, DevOps & Infrastructure ☁️🏗️:
+#### Data Science & Machine Learning 🧠:
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="Azure" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="40" alt="ArgoCD" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" />
 </div>
 
 #### Data Engineering & Databases 📊:
@@ -70,24 +63,36 @@ I find joy in applying data-driven solutions on a larger scale as a **Cloud Data
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="SQLite" />
 </div>
 
-#### Data Science & Machine Learning 🧠:
+#### Cloud, DevOps & Infrastructure ☁️🏗️:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="Azure" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="40" alt="ArgoCD" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
 </div>
+
+#### ERP & Business Systems 🏢:
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" height="40" alt="ms-office" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Microsoft_Dynamics_365_logo.svg" height="40" alt="dynamics365" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_SQL_Server_Logo.svg" height="40" alt="sql-server" />
+</div>
+
 
 #### Programming Languages & Development 🌐:
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
@@ -95,16 +100,12 @@ I find joy in applying data-driven solutions on a larger scale as a **Cloud Data
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="Flask" />
 </div>
 
 #### Scripting & Automation ⚙️:
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg" height="40" alt="Bash" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Ansible_logo.png" height="40" alt="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="40" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Airflow_logo.svg/1024px-Airflow_logo.svg.png" height="40" alt="Airflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell" />
+ <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" />
 </div>
 
 #### Version Control & Collaboration 🧑‍🤝‍🧑:
@@ -117,7 +118,6 @@ I find joy in applying data-driven solutions on a larger scale as a **Cloud Data
 #### Others 🌐:
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" alt="Elasticsearch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Prometheus_logo.svg/1200px-Prometheus_logo.svg.png" height="40" alt="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="Confluence" />
 </div>
