@@ -2,7 +2,7 @@
 <h3 align="center"> Data Engineer & Data Scientist 🚀 | Cloud Enthusiast ☁️ | Enthusiastic about Data Pipelines and AI 🤖</h3>
 <br>
 
-- 🔭 I’m actively sharing my projects on GitHub 📚
+
 - 🌱 Currently exploring **Advanced Cloud Architecture** and **Data Engineering** 📊
 - 📫 Reach me at: **fekkakhind@gmail.com** or
   
