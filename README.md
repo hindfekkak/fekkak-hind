@@ -63,6 +63,15 @@ As a **Data Engineer** and **Data Scientist**, I thrive on transforming raw data
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="SQLite" />
 </div>
 
+#### BI Tools 📊:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="40" alt="Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SSIS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/talend/talend-original.svg" height="40" alt="Talend" />
+</div>
+
 #### Cloud, DevOps & Infrastructure ☁️🏗️:
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="AWS" />
