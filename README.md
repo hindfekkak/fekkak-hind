@@ -80,9 +80,7 @@ As a **Data Engineer** and **Data Scientist**, I thrive on transforming raw data
 
 #### ERP & Business Systems 🏢:
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTUqdJ9hGA66gpbmO70Bm_Um1Iyv-kmf_Yg&s" height="40" alt="ms-office" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Microsoft_Dynamics_365_logo.svg" height="40" alt="dynamics365" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_SQL_Server_Logo.svg" height="40" alt="sql-server" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTUqdJ9hGA66gpbmO70Bm_Um1Iyv-kmf_Yg&s" height="45" alt="ms-office" />
 </div>
 
 
