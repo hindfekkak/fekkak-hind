@@ -8,8 +8,10 @@
   <a href="https://www.linkedin.com/in/hind-fekkak/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <a href="https://stackoverflow.com/users/26811043/fekkak-hind?tab=profile" target="_blank"> <img align="center" src="https://img.shields.io/badge/Stack Overflow-000.svg?style=for-the-badge&logo=StackOverflow&logoColor"/></a>
-  <a href="https://www.kaggle.com/fekkakhind" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
+  <a href="https://stackoverflow.com/users/26811043/fekkak-hind?tab=profile" target="_blank"> <img align="center" src="https://img.shields.io/badge/Stack Overflow-000.svg?style=for-the-badge&logo=StackOverflow&logoColor"/>
+  </a>
+  <a href="https://www.kaggle.com/fekkakhind" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaggle-000.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/>
+  </a>
 
 ---
 
