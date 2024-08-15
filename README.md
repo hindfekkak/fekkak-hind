@@ -66,7 +66,7 @@ As a **Data Engineer** and **Data Scientist**, I thrive on transforming raw data
 #### BI Tools 📊:
 <div align="center">
   <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" height="40" alt="Power BI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png?20181120160841" height="40" alt="Tableau" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png?20181120160841" height="30" alt="Tableau" />
   <img src="https://w7.pngwing.com/pngs/417/369/png-transparent-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-angle-thumbnail.png" height="40" alt="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SSIS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png" height="40" alt="Talend" />
