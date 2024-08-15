@@ -5,6 +5,9 @@
 - 🔭 I’m actively sharing my projects on GitHub 📚
 - 🌱 Currently exploring **Advanced Cloud Architecture** and **Data Engineering** 📊
 - 📫 Reach me at: **fekkakhind@gmail.com** or
+  <a href="mailto:fekkakhind@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-000.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
   <a href="https://www.linkedin.com/in/hind-fekkak/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
