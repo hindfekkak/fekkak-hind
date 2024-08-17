@@ -18,8 +18,6 @@
 
 ### About Me 💼:
 <p align="center">
-  <em>“Data is more than just numbers; it's a way of thinking.”</em>
-  — <em>A Passionate Analyst 😊</em>
 </p>
 <br>
 <div align="center">
