@@ -1,10 +1,8 @@
-<h1 align="center">Hello 🌟, I'm Hind Fekkak</h1>
+<h1 align="center">I'm Hind Fekkak</h1>
 <h3 align="center"> Data Engineer & Data Scientist 🚀 | Cloud Enthusiast ☁️ | Enthusiastic about Data Pipelines and AI 🤖</h3>
 <br>
 
-
-- 🌱 Currently exploring **Advanced Cloud Architecture** and **Data Engineering** 📊
-- 📫 Reach me at: **fekkakhind@gmail.com** or
+ 📫 Reach me at: **fekkakhind@gmail.com** or
   
   <a href="https://www.linkedin.com/in/hind-fekkak/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
@@ -25,10 +23,8 @@
 
 </div>
 <br>
-
-I see concepts like Linear Algebra, Machine Learning, and Statistical Inference as crucial tools for navigating the complexities of modern life. Smart decisions stem from solid data, and I carry this philosophy into my professional work 💼, academic pursuits 🎓, and personal growth 🏋️‍♀️.
-
 As a **Data Engineer** and **Data Scientist**, I thrive on transforming raw data into actionable insights. My work revolves around designing scalable data infrastructures, ensuring seamless data flow, and harnessing advanced analytics to empower informed decision-making and foster business innovation.
+I see concepts like Linear Algebra, Machine Learning, and Statistical Inference as crucial tools for navigating the complexities of modern life. Smart decisions stem from solid data, and I carry this philosophy into my professional work and academic pursuits.
 
 ### Tools and Technologies 🛠️:
 
